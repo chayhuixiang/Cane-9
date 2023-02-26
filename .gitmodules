@@ -1,0 +1,9 @@
+[submodule "Cane-9-App"]
+	path = Cane-9-App
+	url = https://github.com/chayhuixiang/Cane-9-App.git
+[submodule "Cane9-backend"]
+	path = Cane9-backend
+	url = https://github.com/kaijun123/Cane9-backend.git
+[submodule "Cane-9-React"]
+	path = Cane-9-React
+	url = https://github.com/IvanLoke/Cane-9-React.git
