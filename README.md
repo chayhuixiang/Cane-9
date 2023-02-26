@@ -21,20 +21,21 @@ The Cane-9 project is a project that incorporates softare location tracking capa
 - A QR Code is available on the cane to provide the helpers with the caregiver's contact information to ensure more efficient help
 
 ### Tech Stack
-- Flutter Mobile App
+<br>
+#### Flutter Mobile App
 1. Flutter
 
-- React WebaApp
+#### React WebaApp
 1. ReactJS
 2. tailwind css
 
-- Backend Server
+#### Backend Server
 1. Express
 2. Supabase
 3. PostgreSQL
 4. Docker
 
-- Arduino
+#### Arduino
 1. ESP32
 2. Arduino
 3. Geolocation
