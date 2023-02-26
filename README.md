@@ -41,7 +41,7 @@ The Cane-9 project is a project that incorporates softare location tracking capa
 3. Geolocation
 
 ### Credits
-Chay Hui Xiang
-Ang Kai Jun
-Darren Suen Wei Jie
-Ivan Loke Zhi Hao
+- Chay Hui Xiang
+- Ang Kai Jun
+- Darren Suen Wei Jie
+- Ivan Loke Zhi Hao
