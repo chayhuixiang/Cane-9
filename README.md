@@ -10,10 +10,10 @@ with a means to get help through an alert system.
 
 ### Components
 <br>
-- Flutter Mobile App
-- React WebApp
-- Express Backend Server
-- Arduino with GPS functionalities
+1. Flutter Mobile App
+2. React WebApp
+3. Express Backend Server
+4. Arduino with GPS functionalities
 
 ### Key Functionalities:
 <br>
