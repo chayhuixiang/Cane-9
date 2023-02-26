@@ -7,3 +7,6 @@
 [submodule "Cane-9-React"]
 	path = Cane-9-React
 	url = https://github.com/IvanLoke/Cane-9-React.git
+[submodule "Cane-9-Hardware"]
+	path = Cane-9-Hardware
+	url = https://github.com/chayhuixiang/Cane-9-Hardware.git
