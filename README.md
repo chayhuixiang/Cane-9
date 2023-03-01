@@ -25,9 +25,9 @@ The Cane-9 project is a project that incorporates softare location tracking capa
 #### Flutter Mobile App
 1. Flutter
 
-#### React WebaApp
+#### React WebApp
 1. ReactJS
-2. tailwind css
+2. TailwindCSS
 
 #### Backend Server
 1. Express
